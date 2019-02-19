@@ -1,3 +1,4 @@
 First text
 Second code in file
 The thirtd code is added
+Next line of code
