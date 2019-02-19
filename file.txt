@@ -1,4 +1,7 @@
 First text
+<<<<<<< HEAD
 Second code in file
 The thirtd code is added
 Next line of code
+=======
+>>>>>>> parent of 368fc02... The second and third lines of code is added
